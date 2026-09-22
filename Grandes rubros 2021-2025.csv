@@ -1,0 +1,21 @@
+Exportaciones argentinas por grandes rubros (2021-2025);;;;;;;;;;;;;;;
+En millones de dólares (USD FOB);;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+Rubro;2021;2022;2023;2024;2025;;;;;;;;Año;Indice promedio;Deflactor
+Productos primarios (PP);21.809;23.868;14.412;18.307;22.144;;;;;;;;2021;270,96975;1,188114171
+Manufacturas de origen agropecuario (MOA);30.929;33.119;23.822;29.675;30.467;;;;;;;;2022;292,6549167;1,100077196
+Manufacturas de origen industrial (MOI);19.913;23.061;20.643;22.062;23.380;;;;;;;;2023;304,7015833;1,056584598
+Combustibles y energía (CyE);5.284;8.398;7.911;9.677;11.086;;;;;;;;2024;313,6888333;1,026313231
+Total exportaciones;77.935;88.446;66.788;79.721;87.077;;;;;;;;2025;321,943;1
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+Rubro;2021 D;2022 D;2023 D;2024 D;2025 D;2026 D;;;;;;;;;
+Productos primarios (PP);25.912;26.257;15.227;18.789;22.144;0;;;;;;;;;
+Manufacturas de origen agropecuario (MOA);36.747;36.433;25.170;30.456;30.467;0;;;;;;;;;
+Manufacturas de origen industrial (MOI);23.659;25.369;21.811;22.643;23.380;0;;;;;;;;;
+Combustibles y energía (CyE);6.278;9.238;8.359;9.932;11.086;0;;;;;;;;;
+Total exportaciones;92.596;97.297;70.567;81.819;87.077;-27,47%;;;;;;;;;
+;;;;;;;;;;;;;;;
+Fuente: INDEC, Dirección Nacional de Estadísticas del Sector Externo y Cuentas Internacionales (Intercambio Comercial Argentino - ICA). Cifras anuales por grandes rubros.;;;;;;;;;;;;;;;
+Nota: esta base (complejos_exportadores_serie_2002_2025) clasifica las exportaciones por COMPLEJO EXPORTADOR (oleaginoso, cerealero, automotriz, etc.), una apertura distinta de la de GRANDES RUBROS (PP/MOA/MOI/CyE) que usa el Gráfico 4. Por eso estos valores se tomaron directamente de los informes ICA de INDEC, no de la planilla complejos_exportadores.;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
